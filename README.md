@@ -1,4 +1,4 @@
-# FOOD DELIVERY "TAMAK JEE" APP.
+# FOOD DELIVERY "TAMAK JEE"
 
 Application done by Avgustin Chynarbekov on Android Studio.
 

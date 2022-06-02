@@ -16,3 +16,5 @@ But i used firebase which i hope give me some points for that C:
 # Tutorials:
 # Full list of project functions:
 # Frameworks: Android, Java, Firebase, ~~PostgreSQL~~
+
+# Done By Avgustin Chynarbekov

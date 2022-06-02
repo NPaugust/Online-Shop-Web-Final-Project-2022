@@ -1,3 +1,3 @@
-# Made-By-Avgustine
+# FOOD DELIVERY APP.
 
-An android application for online grocery shopping using XML and Java with Firebase as database.
+Food Delivery Application done by Avgustin Chynarbekov in Android studio with Frameworks:Java,firebase.

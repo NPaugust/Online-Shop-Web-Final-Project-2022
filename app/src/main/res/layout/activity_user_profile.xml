@@ -52,7 +52,7 @@ android:textAllCaps="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="112dp"
-            android:text="avgust1ne.k6@gmail.conm"
+            android:text="avgust@gmail.com"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="@color/white"
             android:textSize="15sp"
@@ -66,7 +66,7 @@ android:textAllCaps="true"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:layout_marginBottom="160dp"
-            android:text="Bishkek Umetalieva 128"
+            android:text="Address: Bishkek, Umetalieva 128"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="@color/white"
             android:textSize="15sp"
@@ -98,7 +98,7 @@ android:textAllCaps="true"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="41dp"
-            android:text="User contact:0705656456"
+            android:text="User contact: (missed)"
             android:textAppearance="@style/TextAppearance.AppCompat.Medium"
             android:textColor="@color/white"
             android:textSize="15sp"
@@ -126,14 +126,21 @@ android:textAllCaps="true"
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
-    >
-    <ImageView
-        android:id="@+id/imageView4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="550dp"
-        tools:srcCompat="@tools:sample/avatars" />
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="314dp"
+            android:layout_height="126dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.494"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.877"
+            app:srcCompat="@drawable/acc" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

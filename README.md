@@ -1,2 +1,24 @@
-# "TAMAK-JEE" FOOD DELIVERY WEB.
-85% completed
+# "Tamak-Jee" Food Delivery
+ 
+ "Tamak-Jee" is a food delivery website where all customers can order food from different restaurants.
+  
+# The main menu of page
+![screenshot1](https://user-images.githubusercontent.com/72886935/172022836-1d5801c1-dc9b-47f3-8e7d-296d3db38c65.png)
+
+# Information about the website
+ ![screenshot2](https://user-images.githubusercontent.com/72886935/172022872-7d4aba8d-34bb-4295-83f9-246dda474490.png)
+
+# Registration
+![screenshot3](https://user-images.githubusercontent.com/72886935/172022912-a2d5781f-86df-4ed8-a52c-c73e624f1111.png)
+
+# Authorization
+![screenshot4](https://user-images.githubusercontent.com/72886935/172022951-cb4adca2-63e0-45fc-83af-c1ecdc1e271c.png)
+
+# FAQ and Copyright
+![screenshot5](https://user-images.githubusercontent.com/72886935/172022990-4a997fd4-0ef1-4318-ab1e-b379ab292da8.png)
+
+# Framework
+Database: MySQL
+Spring Boot, html , css
+
+# Made by Avgustin Chynarbekov

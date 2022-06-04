@@ -25,7 +25,7 @@
 Database:MySQL, Spring Boot, html , css
 
 
-# [Web app link](https://web-final-22.herokuapp.com)
+# [Web app link](https://web-final-22.herokuapp.com) (will work soon)
 
 # Tutorials: [Youtube](https://www.youtube.com/watch?v=RB2eOlPgCuY)
  [database sources](https://www.inettutor.com/diagrams/restaurant-food-delivery-system-free-database-design-tutorial/#Database_Tables)

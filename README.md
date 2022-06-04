@@ -17,8 +17,13 @@
 # FAQ and Copyright
 ![screenshot5](https://user-images.githubusercontent.com/72886935/172022990-4a997fd4-0ef1-4318-ab1e-b379ab292da8.png)
 
-# Framework
-Database: MySQL
-Spring Boot, html , css
+# Database schema
+![db](https://user-images.githubusercontent.com/72886935/172023562-d6605d91-3154-46eb-be7b-6b7283204bf3.png)
+
+
+# Frameworks
+Database:MySQL, Spring Boot, html , css
+
 
 # Made by Avgustin Chynarbekov
+COM-20 Ala-Too-University

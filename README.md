@@ -27,6 +27,6 @@ Database:MySQL, Spring Boot, html , css
 
 # [Web app link](https://web-final-22.herokuapp.com)
 
-
+# Tutorials [Youtube] (https://www.youtube.com/watch?v=RB2eOlPgCuY)
 # Made by Avgustin Chynarbekov
-COM-20 Ala-Too-University
+COM-20 Ala-Too-University 

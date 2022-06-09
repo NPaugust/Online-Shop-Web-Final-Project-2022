@@ -26,7 +26,7 @@ Database:MySQL, Spring Boot, html , css
 
 
 # [Web app link](https://web-final-22.herokuapp.com)  
-There is immortal error i couldnt fix that :C
+There is an unkillable error that I couldn't fix :C
 
 # Tutorials:
 # [Youtube](https://www.youtube.com/watch?v=RB2eOlPgCuY)
